@@ -16,7 +16,7 @@ if (Platform.OS !== 'web') {
 
 // --- CONFIGURAÇÕES ---
 const AIO_USERNAME = "cayocesar652";
-const AIO_KEY = "aio_XsDA61XeMyCZsXdkNFIycqvpPPzB"; 
+const AIO_KEY = "aio_sAXn82ZYlpGVLSMIM4eyxNCkXOsG"; 
 const API_URL = `https://io.adafruit.com/api/v2/${AIO_USERNAME}/feeds`;
 
 export default function Index() {
